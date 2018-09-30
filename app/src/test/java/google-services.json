@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808122421590",
+    "firebase_url": "https://fohormalai-master.firebaseio.com",
+    "project_id": "fohormalai-master",
+    "storage_bucket": "fohormalai-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808122421590:android:87c851cf6978127c",
+        "android_client_info": {
+          "package_name": "org.example.fohormalai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808122421590-l3e4993if82002dds502bbk124t3iare.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.example.fohormalai",
+            "certificate_hash": "184fdacfef9218f9f851594016221662b20e6425"
+          }
+        },
+        {
+          "client_id": "808122421590-e523qqkqf0d8vrnt5vl2c172n83g4u7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13UFy0CiI5Qp0sPe6oOZCTUT9WW3vDgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808122421590-e523qqkqf0d8vrnt5vl2c172n83g4u7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
